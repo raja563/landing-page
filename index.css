@@ -68,12 +68,13 @@ text-align: center;
 }
 .grid_item{
     /* display:inline-flex; */
-    justify-content: space-around;
-    margin: 20px;
+    justify-content:space-evenly;
+    margin: 10px;
     padding: 20px;
-    display:flex;
+    display:inline-block;
 
 }
+
 
 .card_content{
     padding: 20px;
